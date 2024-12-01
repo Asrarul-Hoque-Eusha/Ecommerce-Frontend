@@ -18,3 +18,8 @@ The sections in this website are:
     <li>React JS</li>
     <li>Tailwind CSS</li>
 </ol>
+
+This video demonstrate the view of Ecommerce site designed:
+
+https://github.com/user-attachments/assets/f33e3385-6fe2-4577-9837-05236e9091f2
+
